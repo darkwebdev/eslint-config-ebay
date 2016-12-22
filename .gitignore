@@ -1,0 +1,13 @@
+.DS_Store
+/.idea
+*.iml
+/work
+/node_modules
+/pids
+/log
+.cache
+*.log
+/tmp
+/.vscode
+.npm
+yarn.lock
