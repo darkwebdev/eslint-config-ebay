@@ -9,7 +9,7 @@ eBay Javascript linting configs for ESLint
 Create `.eslintrc.json` file with the following content:
 ```
 {
-  "extends": [ "eslint-config-ebay/node6" ],
+  "extends": [ "eslint-config-ebay" ],
   "rules": {
     your additional rules here
   }
@@ -19,7 +19,8 @@ Create `.eslintrc.json` file with the following content:
 ## Run
 ```eslint .```
 
-## Available rulesets
-- `eslint-config-ebay/node6` (ES6 support)
-- `eslint-config-ebay/node4` (~50% of ES6 support)
+## Available configs to extend
+- `eslint-config-ebay` (Latest ES8/2017 support)
+- `eslint-config-ebay/node6` (ES7/2016 support)
+- `eslint-config-ebay/node4` (~50% of ES6/2015 support)
 - `eslint-config-ebay/legacy` (ES5 support)

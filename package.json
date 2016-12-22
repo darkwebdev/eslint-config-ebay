@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "eBay JavaScript linting rules for ESLint",
   "scripts": {},
-  "main": "node6.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:darkwebdev/eslint-config-ebay.git"
