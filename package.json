@@ -15,5 +15,8 @@
     "eslint-plugin-mocha": "^4.7.0",
     "eslint-plugin-node": "^3.0.5"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "license": "UNLICENSED"
 }
