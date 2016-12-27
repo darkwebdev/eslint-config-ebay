@@ -1,14 +1,14 @@
 {
-  "name": "eslint-ebay",
+  "name": "eslint-config-ebay-common",
   "version": "1.0.2",
   "description": "eBay JavaScript linting rules for ESLint",
   "scripts": {},
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:darkwebdev/eslint-ebay.git"
+    "url": "git@github.com:darkwebdev/eslint-config-ebay-common.git"
   },
-  "author": "darkwebdev@gmail.com",
+  "author": "Timur Manyanov <darkwebdev@gmail.com>",
   "dependencies": {
     "eslint-config-airbnb-base": "^11.0.0",
     "eslint-plugin-import": "^2.2.0",
