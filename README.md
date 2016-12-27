@@ -2,8 +2,13 @@
 eBay Javascript linting configs for ESLint
 
 ## Installation
-- `yarn global add eslint` (or `npm i -g eslint`)
-- `yarn add --dev eslint-config-ebay-common` (or `npm i --save-dev eslint-config-ebay-common`)
+```
+yarn add --dev eslint eslint-config-ebay-common
+```
+or
+```
+npm i --save-dev eslint eslint-config-ebay-common
+```
 
 ## Configuration
 Create `.eslintrc.json` file with the following content:
@@ -17,7 +22,9 @@ Create `.eslintrc.json` file with the following content:
 ```
 
 ## Run
-```eslint .```
+```
+eslint .
+```
 
 ## Available configs to extend
 - `ebay-common` (Latest ES8/2017 support)
