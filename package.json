@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ebay-common",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "eBay JavaScript linting rules for ESLint",
   "scripts": {},
   "main": "index.js",
